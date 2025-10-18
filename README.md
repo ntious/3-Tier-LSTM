@@ -79,6 +79,3 @@ All outputs (models, figures, reports) will be saved under `outputs/`.
 
 ## Citations
 
-- WDBC dataset origin: Wolberg, W. H., & Mangasarian, O. L. (UCI ML Repository).
-- SHAP: Lundberg, S. M., & Lee, S.-I. (2017).
-- LIME: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016).
