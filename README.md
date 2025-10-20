@@ -1,4 +1,4 @@
-# Hybrid 3‑Tier LSTM for Breast Cancer Classification (GitHub‑Ready)
+# An Interpretable Hybrid 3-Tier LSTM Model for Breast Tumor Classification: Balancing Accuracy and Transparency in Clinical Decision Support
 
 This repository contains a **reproducible, modular pipeline** for tumor classification on the Breast Cancer dataset using a **Hybrid 3‑Tier LSTM** model. The pipeline includes:
 
