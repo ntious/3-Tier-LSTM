@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this implementation or reproduce the associated study, please cite the article and repository."
+title: "Interpretable Hybrid Three-Tier LSTM for Breast Tumor Classification"
+type: software
+authors:
+  - family-names: Nti
+    given-names: Isaac Kofi
+    orcid: "https://orcid.org/0000-0001-9257-4295"
+identifiers:
+  - type: doi
+    value: "10.1007/s44250-025-00315-6"
+repository-code: "https://github.com/ntious/3-Tier-LSTM"
+url: "https://github.com/ntious/3-Tier-LSTM"
+license: MIT
+keywords:
+  - explainable artificial intelligence
+  - breast tumor classification
+  - LSTM
+  - SHAP
+  - LIME
+  - clinical decision support
+  - reproducible machine learning
