@@ -9,6 +9,10 @@ authors:
 identifiers:
   - type: doi
     value: "10.1007/s44250-025-00315-6"
+  - type: doi
+    value: "10.5281/zenodo.24046766"
+  - type: doi
+    value: "10.5281/zenodo.24046765"
 repository-code: "https://github.com/ntious/3-Tier-LSTM"
 url: "https://github.com/ntious/3-Tier-LSTM"
 license: MIT
