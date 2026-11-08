@@ -13,7 +13,8 @@ authors:
     given-names: Adib
     orcid: "https://orcid.org/0000-0002-8627-5974"
   - family-names: Somanathan
-    given-names: Arjun Remadeviidentifiers:
+    given-names: Arjun Remadevi
+identifiers:
   - type: doi
     value: "10.1007/s44250-025-00315-6"
   - type: doi
