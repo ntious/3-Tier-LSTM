@@ -6,7 +6,14 @@ authors:
   - family-names: Nti
     given-names: Isaac Kofi
     orcid: "https://orcid.org/0000-0001-9257-4295"
-identifiers:
+  - family-names: Nyarko-Boateng
+    given-names: Owusu
+    orcid: "https://orcid.org/0000-0003-0300-2469"
+  - family-names: Zaman
+    given-names: Adib
+    orcid: "https://orcid.org/0000-0002-8627-5974"
+  - family-names: Somanathan
+    given-names: Arjun Remadeviidentifiers:
   - type: doi
     value: "10.1007/s44250-025-00315-6"
   - type: doi
