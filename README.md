@@ -82,4 +82,4 @@ All outputs (models, figures, reports) will be saved under `outputs/`.
 For this archived software release, cite **3-Tier-LSTM v1.0.0** using the version DOI [10.5281/zenodo.24046766](https://doi.org/10.5281/zenodo.24046766). The concept DOI for the project across versions is [10.5281/zenodo.24046765](https://doi.org/10.5281/zenodo.24046765). See the [v1.0.0 GitHub release](https://github.com/ntious/3-Tier-LSTM/releases/tag/v1.0.0).
 
 ## Cite this article
-Nti, I.K., Nyarko-Boateng, O., Zaman, A. et al. Interpretable hybrid three tier LSTM model for accurate and transparent breast tumor classification in clinical decision support. Discov Health Systems 5, 2 (2026). https://doi.org/10.1007/s44250-025-00315-6
+Isaac Kofi Nti, Owusu Nyarko-Boateng, Adib Zaman, and Arjun Remadevi Somanathan. “Interpretable hybrid three tier LSTM model for accurate and transparent breast tumor classification in clinical decision support.” Discover Health Systems 5, 2 (2026). https://doi.org/10.1007/s44250-025-00315-6
